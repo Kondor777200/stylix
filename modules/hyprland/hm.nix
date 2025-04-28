@@ -31,7 +31,7 @@
               {
                 decoration.shadow.color = rgba colors.base00 "99";
                 general = {
-                  "col.active_border" = "${rgb colors.base0D} ${rgb colors.base02} 45%";
+                  "col.active_border" = "${rgb colors.base0D} ${rgb colors.base02} 45deg";
                   "col.inactive_border" = rgb colors.base03;
                 };
                 group = {
